@@ -1,0 +1,73 @@
+texto;etiqueta
+¿Qué es RIVALT?;informacion_general
+Define RIVALT;informacion_general
+¿Para qué sirve RIVALT?;informacion_general
+¿RIVALT es una plataforma de torneos?;informacion_general
+¿Qué puedo hacer en RIVALT?;informacion_general
+¿Quién puede usar RIVALT?;informacion_general
+¿Puede usarlo un club deportivo?;informacion_general
+¿Lo puede usar un grupo de amigos?;informacion_general
+¿Está pensado para organizaciones?;informacion_general
+¿Usar RIVALT tiene algún costo?;informacion_general
+¿RIVALT es gratis?;informacion_general
+¿Hay planes de pago?;informacion_general
+¿Tiene suscripción premium?;informacion_general
+¿Qué deportes o actividades se pueden organizar?;informacion_general
+¿Qué tipos de competiciones permite?;informacion_general
+¿Se pueden hacer torneos de videojuegos?;informacion_general
+¿Sirve para eSports?;informacion_general
+¿Se pueden organizar ligas de fútbol o baloncesto?;informacion_general
+
+¿Cómo creo una cuenta en RIVALT?;cuenta_perfil
+¿Cómo registrarme en RIVALT?;cuenta_perfil
+Quiero crear una cuenta;cuenta_perfil
+¿Dónde está el botón de registrarse?;cuenta_perfil
+¿Necesito correo para registrarme?;cuenta_perfil
+¿Cómo inicio sesión?;cuenta_perfil
+¿Cómo se garantiza la seguridad de mis datos?;cuenta_perfil
+¿Mis datos están seguros en RIVALT?;cuenta_perfil
+¿Qué seguridad tiene la plataforma?;cuenta_perfil
+¿Usáis Firebase Authentication?;cuenta_perfil
+¿Cómo cierro sesión en RIVALT?;cuenta_perfil
+¿Dónde está el botón de cerrar sesión?;cuenta_perfil
+Quiero salir de mi cuenta;cuenta_perfil
+¿Cómo cambio mis datos de perfil?;cuenta_perfil
+¿Puedo modificar mi perfil?;cuenta_perfil
+
+¿Cómo puedo crear un nuevo torneo o liga?;organizadores
+Quiero crear una competición;organizadores
+¿Dónde se crea un torneo?;organizadores
+¿Cómo creo un torneo en RIVALT?;organizadores
+¿Cómo creo una liga en RIVALT?;organizadores
+¿Puedo elegir deporte al crear una competición?;organizadores
+¿Qué formatos de competición soporta RIVALT?;organizadores
+¿Hay formato liga?;organizadores
+¿Hay eliminación directa?;organizadores
+¿Puedo hacer cuadros de eliminación directa?;organizadores
+¿Se pueden crear grupos?;organizadores
+¿Cómo administro participantes inscritos?;organizadores
+¿Dónde veo la lista de inscritos?;organizadores
+¿Puedo aceptar o rechazar equipos?;organizadores
+¿Cómo gestiono equipos en mi competición?;organizadores
+¿Puedo poner un reglamento?;organizadores
+¿Dónde escribo las normas del torneo?;organizadores
+
+¿Dónde puedo ver mis próximos enfrentamientos?;participantes
+¿Dónde miro el calendario de partidos?;participantes
+¿Cuándo juego mi próximo partido?;participantes
+¿Dónde se ve la clasificación general?;participantes
+¿Cómo va la tabla de clasificación?;participantes
+¿Se actualiza la clasificación automáticamente?;participantes
+¿Dónde consulto resultados?;participantes
+¿Dónde veo los partidos programados?;participantes
+
+Estoy teniendo un problema técnico, ¿qué hago?;soporte
+Tengo un error en la plataforma;soporte
+No me funciona la web, ¿qué hago?;soporte
+¿Recomendáis borrar caché o refrescar?;soporte
+¿Qué pasos básicos pruebo si falla?;soporte
+¿Dónde contacto con soporte?;soporte
+¿Cómo puedo contactar con RIVALT?;soporte
+Tengo una sugerencia, ¿cómo os escribo?;soporte
+¿Tenéis un correo de contacto?;soporte
+Quiero mandar feedback;soporte

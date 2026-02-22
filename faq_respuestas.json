@@ -1,0 +1,7 @@
+{
+  "informacion_general": "RIVALT es una plataforma online para crear, gestionar y participar en torneos, ligas y competiciones (deportes tradicionales, actividades físicas y eSports). Actualmente es gratuita, con opción de planes de pago con ventajas adicionales. Permite organizar muchas disciplinas: fútbol, baloncesto, pádel, tenis, ajedrez, atletismo, videojuegos, etc.",
+  "cuenta_perfil": "Para crear una cuenta: pulsa 'Registrarse' o 'Crear Cuenta' en la página de inicio y sigue los pasos (correo y contraseña). La seguridad se gestiona con medidas robustas como Firebase Authentication y buenas prácticas de protección de datos. Para cerrar sesión, usa el botón 'Cerrar sesión' arriba a la derecha.",
+  "organizadores": "Para crear una competición: inicia sesión y entra en 'Crear Competición' / 'Nuevo Torneo'. Completa el formulario: nombre, deporte/actividad, reglamento, formato (liga o eliminación directa), calendario y límite de participantes. Desde el panel de control puedes ver y gestionar inscritos/equipos.",
+  "participantes": "Tus próximos partidos se muestran en la sección 'Calendario' de la competición. La clasificación se consulta en 'Clasificación' y se actualiza automáticamente cuando se registran y validan resultados.",
+  "soporte": "Si tienes un problema técnico: prueba refrescar la página (Ctrl+R), limpiar caché y revisar si hay avisos de incidencias. Si continúa, contacta con soporte en rivalt.contacto@gmail.com o desde el formulario de contacto del sitio."
+}
