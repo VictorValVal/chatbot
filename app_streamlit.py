@@ -4,7 +4,8 @@ import pickle
 import requests
 import streamlit as st
 
-HF_TOKEN = "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"
+from config import HF_TOKEN
+
 HF_MODEL_ID = "black-forest-labs/FLUX.1-schnell"
 
 # Cargar los recursos

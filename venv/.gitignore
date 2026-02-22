@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Config con tokens (NO subir)
+config.py
+
+# Archivos sistema
+.DS_Store
