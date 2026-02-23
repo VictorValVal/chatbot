@@ -1,1 +1,3 @@
-HF_TOKEN = "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"
+import streamlit as st
+
+HF_TOKEN = st.secrets["HF_TOKEN"]
